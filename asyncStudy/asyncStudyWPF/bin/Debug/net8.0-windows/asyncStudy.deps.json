@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "asyncStudy/1.0.0": {
+        "dependencies": {
+          "asyncStudyLib": "1.0.0"
+        },
+        "runtime": {
+          "asyncStudy.dll": {}
+        }
+      },
+      "asyncStudyLib/1.0.0": {
+        "runtime": {
+          "asyncStudyLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "asyncStudy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "asyncStudyLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

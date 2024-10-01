@@ -1,0 +1,12 @@
+C:\repos\eugene\study\asyncStudy\asyncStudy\asyncStudy\bin\Debug\net8.0\asyncStudyLib.deps.json
+C:\repos\eugene\study\asyncStudy\asyncStudy\asyncStudy\bin\Debug\net8.0\asyncStudyLib.dll
+C:\repos\eugene\study\asyncStudy\asyncStudy\asyncStudy\bin\Debug\net8.0\asyncStudyLib.pdb
+C:\repos\eugene\study\asyncStudy\asyncStudy\asyncStudy\obj\Debug\net8.0\asyncStudyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\eugene\study\asyncStudy\asyncStudy\asyncStudy\obj\Debug\net8.0\asyncStudyLib.AssemblyInfoInputs.cache
+C:\repos\eugene\study\asyncStudy\asyncStudy\asyncStudy\obj\Debug\net8.0\asyncStudyLib.AssemblyInfo.cs
+C:\repos\eugene\study\asyncStudy\asyncStudy\asyncStudy\obj\Debug\net8.0\asyncStudyLib.csproj.CoreCompileInputs.cache
+C:\repos\eugene\study\asyncStudy\asyncStudy\asyncStudy\obj\Debug\net8.0\asyncStudyLib.sourcelink.json
+C:\repos\eugene\study\asyncStudy\asyncStudy\asyncStudy\obj\Debug\net8.0\asyncStudyLib.dll
+C:\repos\eugene\study\asyncStudy\asyncStudy\asyncStudy\obj\Debug\net8.0\refint\asyncStudyLib.dll
+C:\repos\eugene\study\asyncStudy\asyncStudy\asyncStudy\obj\Debug\net8.0\asyncStudyLib.pdb
+C:\repos\eugene\study\asyncStudy\asyncStudy\asyncStudy\obj\Debug\net8.0\ref\asyncStudyLib.dll
