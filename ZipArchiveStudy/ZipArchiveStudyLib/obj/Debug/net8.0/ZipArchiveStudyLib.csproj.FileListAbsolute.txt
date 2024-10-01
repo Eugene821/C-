@@ -1,0 +1,12 @@
+C:\repos\eugene\c-sharp\ZipArchiveStudy\ZipArchiveStudyLib\bin\Debug\net8.0\ZipArchiveStudyLib.deps.json
+C:\repos\eugene\c-sharp\ZipArchiveStudy\ZipArchiveStudyLib\bin\Debug\net8.0\ZipArchiveStudyLib.dll
+C:\repos\eugene\c-sharp\ZipArchiveStudy\ZipArchiveStudyLib\bin\Debug\net8.0\ZipArchiveStudyLib.pdb
+C:\repos\eugene\c-sharp\ZipArchiveStudy\ZipArchiveStudyLib\obj\Debug\net8.0\ZipArchiveStudyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\eugene\c-sharp\ZipArchiveStudy\ZipArchiveStudyLib\obj\Debug\net8.0\ZipArchiveStudyLib.AssemblyInfoInputs.cache
+C:\repos\eugene\c-sharp\ZipArchiveStudy\ZipArchiveStudyLib\obj\Debug\net8.0\ZipArchiveStudyLib.AssemblyInfo.cs
+C:\repos\eugene\c-sharp\ZipArchiveStudy\ZipArchiveStudyLib\obj\Debug\net8.0\ZipArchiveStudyLib.csproj.CoreCompileInputs.cache
+C:\repos\eugene\c-sharp\ZipArchiveStudy\ZipArchiveStudyLib\obj\Debug\net8.0\ZipArchiveStudyLib.sourcelink.json
+C:\repos\eugene\c-sharp\ZipArchiveStudy\ZipArchiveStudyLib\obj\Debug\net8.0\ZipArchiveStudyLib.dll
+C:\repos\eugene\c-sharp\ZipArchiveStudy\ZipArchiveStudyLib\obj\Debug\net8.0\refint\ZipArchiveStudyLib.dll
+C:\repos\eugene\c-sharp\ZipArchiveStudy\ZipArchiveStudyLib\obj\Debug\net8.0\ZipArchiveStudyLib.pdb
+C:\repos\eugene\c-sharp\ZipArchiveStudy\ZipArchiveStudyLib\obj\Debug\net8.0\ref\ZipArchiveStudyLib.dll

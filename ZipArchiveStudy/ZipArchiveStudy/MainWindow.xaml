@@ -1,0 +1,16 @@
+﻿<Window x:Class="ZipArchiveStudy.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ZipArchiveStudy"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    
+    <Grid>
+        <StackPanel Margin="10" AllowDrop="True" Drop="{Binding FileDropCommand}">
+            <Button Content="Show Files" Command="{Binding ShowFilesCommand}" Margin="5"/>
+            <ListBox ItemsSource="{Binding Files}" Margin="5" Height="321"/>
+        </StackPanel>
+    </Grid>
+</Window>

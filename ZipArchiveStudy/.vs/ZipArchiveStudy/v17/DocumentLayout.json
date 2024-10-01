@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos\\eugene\\c-sharp\\ZipArchiveStudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9239579E-D7CC-4335-BBC6-8659B1DD4A33}|ZipArchiveStudyLib\\ZipArchiveStudyLib.csproj|c:\\repos\\eugene\\c-sharp\\ziparchivestudy\\ziparchivestudylib\\fileextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9239579E-D7CC-4335-BBC6-8659B1DD4A33}|ZipArchiveStudyLib\\ZipArchiveStudyLib.csproj|solutionrelative:ziparchivestudylib\\fileextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F396935-4224-4FFF-BCAC-D467566974B7}|ZipArchiveStudy\\ZipArchiveStudy.csproj|c:\\repos\\eugene\\c-sharp\\ziparchivestudy\\ziparchivestudy\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F396935-4224-4FFF-BCAC-D467566974B7}|ZipArchiveStudy\\ZipArchiveStudy.csproj|solutionrelative:ziparchivestudy\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F396935-4224-4FFF-BCAC-D467566974B7}|ZipArchiveStudy\\ZipArchiveStudy.csproj|c:\\repos\\eugene\\c-sharp\\ziparchivestudy\\ziparchivestudy\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F396935-4224-4FFF-BCAC-D467566974B7}|ZipArchiveStudy\\ZipArchiveStudy.csproj|solutionrelative:ziparchivestudy\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\repos\\eugene\\c-sharp\\ZipArchiveStudy\\ZipArchiveStudy\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ZipArchiveStudy\\MainViewModel.cs",
+              "ToolTip": "C:\\repos\\eugene\\c-sharp\\ZipArchiveStudy\\ZipArchiveStudy\\MainViewModel.cs",
+              "RelativeToolTip": "ZipArchiveStudy\\MainViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:57:41.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\repos\\eugene\\c-sharp\\ZipArchiveStudy\\ZipArchiveStudy\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ZipArchiveStudy\\MainWindow.xaml",
+              "ToolTip": "C:\\repos\\eugene\\c-sharp\\ZipArchiveStudy\\ZipArchiveStudy\\MainWindow.xaml",
+              "RelativeToolTip": "ZipArchiveStudy\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-01T08:15:02.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileExtractor.cs",
+              "DocumentMoniker": "C:\\repos\\eugene\\c-sharp\\ZipArchiveStudy\\ZipArchiveStudyLib\\FileExtractor.cs",
+              "RelativeDocumentMoniker": "ZipArchiveStudyLib\\FileExtractor.cs",
+              "ToolTip": "C:\\repos\\eugene\\c-sharp\\ZipArchiveStudy\\ZipArchiveStudyLib\\FileExtractor.cs",
+              "RelativeToolTip": "ZipArchiveStudyLib\\FileExtractor.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T05:55:40.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
