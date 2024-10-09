@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AlertStudyLib/1.0.0": {
+        "runtime": {
+          "AlertStudyLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlertStudyLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

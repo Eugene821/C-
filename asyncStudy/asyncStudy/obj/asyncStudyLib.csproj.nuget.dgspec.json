@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\eugene\\asyncStudy\\asyncStudy\\asyncStudyLib.csproj": {}
+    "C:\\repos\\eugene\\c-sharp\\asyncStudy\\asyncStudy\\asyncStudyLib.csproj": {}
   },
   "projects": {
-    "C:\\repos\\eugene\\asyncStudy\\asyncStudy\\asyncStudyLib.csproj": {
+    "C:\\repos\\eugene\\c-sharp\\asyncStudy\\asyncStudy\\asyncStudyLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\eugene\\asyncStudy\\asyncStudy\\asyncStudyLib.csproj",
+        "projectUniqueName": "C:\\repos\\eugene\\c-sharp\\asyncStudy\\asyncStudy\\asyncStudyLib.csproj",
         "projectName": "asyncStudyLib",
-        "projectPath": "C:\\repos\\eugene\\asyncStudy\\asyncStudy\\asyncStudyLib.csproj",
+        "projectPath": "C:\\repos\\eugene\\c-sharp\\asyncStudy\\asyncStudy\\asyncStudyLib.csproj",
         "packagesPath": "C:\\Users\\ujin4\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\eugene\\asyncStudy\\asyncStudy\\obj\\",
+        "outputPath": "C:\\repos\\eugene\\c-sharp\\asyncStudy\\asyncStudy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ujin4\\AppData\\Roaming\\NuGet\\NuGet.Config",

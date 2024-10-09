@@ -1,0 +1,12 @@
+C:\repos\eugene\c-sharp\AlertStudy\AlertStudyLib\bin\Debug\net8.0\AlertStudyLib.deps.json
+C:\repos\eugene\c-sharp\AlertStudy\AlertStudyLib\bin\Debug\net8.0\AlertStudyLib.dll
+C:\repos\eugene\c-sharp\AlertStudy\AlertStudyLib\bin\Debug\net8.0\AlertStudyLib.pdb
+C:\repos\eugene\c-sharp\AlertStudy\AlertStudyLib\obj\Debug\net8.0\AlertStudyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\eugene\c-sharp\AlertStudy\AlertStudyLib\obj\Debug\net8.0\AlertStudyLib.AssemblyInfoInputs.cache
+C:\repos\eugene\c-sharp\AlertStudy\AlertStudyLib\obj\Debug\net8.0\AlertStudyLib.AssemblyInfo.cs
+C:\repos\eugene\c-sharp\AlertStudy\AlertStudyLib\obj\Debug\net8.0\AlertStudyLib.csproj.CoreCompileInputs.cache
+C:\repos\eugene\c-sharp\AlertStudy\AlertStudyLib\obj\Debug\net8.0\AlertStudyLib.sourcelink.json
+C:\repos\eugene\c-sharp\AlertStudy\AlertStudyLib\obj\Debug\net8.0\AlertStudyLib.dll
+C:\repos\eugene\c-sharp\AlertStudy\AlertStudyLib\obj\Debug\net8.0\refint\AlertStudyLib.dll
+C:\repos\eugene\c-sharp\AlertStudy\AlertStudyLib\obj\Debug\net8.0\AlertStudyLib.pdb
+C:\repos\eugene\c-sharp\AlertStudy\AlertStudyLib\obj\Debug\net8.0\ref\AlertStudyLib.dll

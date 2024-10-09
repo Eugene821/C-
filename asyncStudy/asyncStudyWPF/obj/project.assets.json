@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\eugene\\asyncStudy\\asyncStudyWPF\\asyncStudy.csproj",
+      "projectUniqueName": "C:\\repos\\eugene\\c-sharp\\asyncStudy\\asyncStudyWPF\\asyncStudy.csproj",
       "projectName": "asyncStudy",
-      "projectPath": "C:\\repos\\eugene\\asyncStudy\\asyncStudyWPF\\asyncStudy.csproj",
+      "projectPath": "C:\\repos\\eugene\\c-sharp\\asyncStudy\\asyncStudyWPF\\asyncStudy.csproj",
       "packagesPath": "C:\\Users\\ujin4\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\eugene\\asyncStudy\\asyncStudyWPF\\obj\\",
+      "outputPath": "C:\\repos\\eugene\\c-sharp\\asyncStudy\\asyncStudyWPF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ujin4\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,8 +54,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\repos\\eugene\\asyncStudy\\asyncStudy\\asyncStudyLib.csproj": {
-              "projectPath": "C:\\repos\\eugene\\asyncStudy\\asyncStudy\\asyncStudyLib.csproj"
+            "C:\\repos\\eugene\\c-sharp\\asyncStudy\\asyncStudy\\asyncStudyLib.csproj": {
+              "projectPath": "C:\\repos\\eugene\\c-sharp\\asyncStudy\\asyncStudy\\asyncStudyLib.csproj"
             }
           }
         }

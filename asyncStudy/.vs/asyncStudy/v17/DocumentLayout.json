@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\repos\\eugene\\asyncStudy\\",
+  "WorkspaceRootPath": "C:\\repos\\eugene\\c-sharp\\asyncStudy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C45AE9E6-F88C-405F-9A4F-DC2B9BAE19B1}|asyncStudyWPF\\asyncStudy.csproj|c:\\repos\\eugene\\asyncstudy\\asyncstudywpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C45AE9E6-F88C-405F-9A4F-DC2B9BAE19B1}|asyncStudyWPF\\asyncStudy.csproj|solutionrelative:asyncstudywpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C45AE9E6-F88C-405F-9A4F-DC2B9BAE19B1}|asyncStudyWPF\\asyncStudy.csproj|c:\\repos\\eugene\\asyncstudy\\asyncstudywpf\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C45AE9E6-F88C-405F-9A4F-DC2B9BAE19B1}|asyncStudyWPF\\asyncStudy.csproj|solutionrelative:asyncstudywpf\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C45AE9E6-F88C-405F-9A4F-DC2B9BAE19B1}|asyncStudyWPF\\asyncStudy.csproj|c:\\repos\\eugene\\c-sharp\\asyncstudy\\asyncstudywpf\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45AE9E6-F88C-405F-9A4F-DC2B9BAE19B1}|asyncStudyWPF\\asyncStudy.csproj|solutionrelative:asyncstudywpf\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,26 +23,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\repos\\eugene\\asyncStudy\\asyncStudyWPF\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "asyncStudyWPF\\MainWindow.xaml",
-              "ToolTip": "C:\\repos\\eugene\\asyncStudy\\asyncStudyWPF\\MainWindow.xaml",
-              "RelativeToolTip": "asyncStudyWPF\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-01T05:42:16.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RelayCommand.cs",
-              "DocumentMoniker": "C:\\repos\\eugene\\asyncStudy\\asyncStudyWPF\\RelayCommand.cs",
-              "RelativeDocumentMoniker": "asyncStudyWPF\\RelayCommand.cs",
-              "ToolTip": "C:\\repos\\eugene\\asyncStudy\\asyncStudyWPF\\RelayCommand.cs",
-              "RelativeToolTip": "asyncStudyWPF\\RelayCommand.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBEAAAAlAAAA",
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\repos\\eugene\\c-sharp\\asyncStudy\\asyncStudyWPF\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "asyncStudyWPF\\MainViewModel.cs",
+              "ToolTip": "C:\\repos\\eugene\\c-sharp\\asyncStudy\\asyncStudyWPF\\MainViewModel.cs",
+              "RelativeToolTip": "asyncStudyWPF\\MainViewModel.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAmwFUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T05:41:27.173Z"
+              "WhenOpened": "2024-10-04T06:42:30.105Z",
+              "EditorCaption": ""
             }
           ]
         }
