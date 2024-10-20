@@ -1,0 +1,12 @@
+C:\repos\eugene\c-sharp\HashStudy\HashStudyLib\bin\Debug\net8.0\HashStudyLib.deps.json
+C:\repos\eugene\c-sharp\HashStudy\HashStudyLib\bin\Debug\net8.0\HashStudyLib.dll
+C:\repos\eugene\c-sharp\HashStudy\HashStudyLib\bin\Debug\net8.0\HashStudyLib.pdb
+C:\repos\eugene\c-sharp\HashStudy\HashStudyLib\obj\Debug\net8.0\HashStudyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\eugene\c-sharp\HashStudy\HashStudyLib\obj\Debug\net8.0\HashStudyLib.AssemblyInfoInputs.cache
+C:\repos\eugene\c-sharp\HashStudy\HashStudyLib\obj\Debug\net8.0\HashStudyLib.AssemblyInfo.cs
+C:\repos\eugene\c-sharp\HashStudy\HashStudyLib\obj\Debug\net8.0\HashStudyLib.csproj.CoreCompileInputs.cache
+C:\repos\eugene\c-sharp\HashStudy\HashStudyLib\obj\Debug\net8.0\HashStudyLib.sourcelink.json
+C:\repos\eugene\c-sharp\HashStudy\HashStudyLib\obj\Debug\net8.0\HashStudyLib.dll
+C:\repos\eugene\c-sharp\HashStudy\HashStudyLib\obj\Debug\net8.0\refint\HashStudyLib.dll
+C:\repos\eugene\c-sharp\HashStudy\HashStudyLib\obj\Debug\net8.0\HashStudyLib.pdb
+C:\repos\eugene\c-sharp\HashStudy\HashStudyLib\obj\Debug\net8.0\ref\HashStudyLib.dll
